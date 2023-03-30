@@ -39,7 +39,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Status :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eziraa&theme=vision-friendly-dark&border_radius=9.7)](https://git.io/streak-stats)
 

@@ -43,6 +43,6 @@
 
 ### :fire: My Status :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eziraa&theme=vision-friendly-dark&border_radius=9.7)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sutual&theme=vision-friendly-dark&border_radius=9.7)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eziraa&layout=compact&theme=vision-friendly-dark)](https://github.com/eziraa/github-readme-status)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sutual&layout=compact&theme=vision-friendly-dark)](https://github.com/sutual/github-readme-status)

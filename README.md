@@ -168,10 +168,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<h2 align="center">Atividade desde 18/09/2023 📊</h2>
+### Wakatime  📊
 
 <div align="center">
-  <a href="https://wakatime.com/@itslaivy">
+  <a href="https://wakatime.com/@eziraa">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eziraa&layout=compact&theme=dark" alt="eziraa"
   </a>
 

@@ -172,7 +172,7 @@
 
 <div align="center">
   <a href="https://wakatime.com/@eziraa">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eziraa&layout=compact&theme=dark" alt="eziraa"
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danielmeinicke&layout=compact&theme=dark" alt="eziraa">
   </a>
 
   <p align="center">

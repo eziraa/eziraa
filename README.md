@@ -168,16 +168,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-### Wakatime  📊
 
-<div align="center">
-  <a href="https://wakatime.com/@eziraa">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danielmeinicke&layout=compact&theme=dark" alt="eziraa">
-  </a>
-
-  <p align="center">
-    Criei uma conta no WakaTime para expôr o meu tempo na programação todos os dias, visualize todo o meu percurso como programador nos gráficos acima.
-    Lembre-se de que os dados estatísticos se iniciaram no dia 18/09/2023.
-  </p>
-</div>
 

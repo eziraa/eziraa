@@ -1,172 +1,98 @@
 <div align="center">
-  <!-- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
+  <img src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/200w.webp" width="300" />
 </div>
-<div id="badges" align="center">
-  <div>
-    <img src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/200w.webp?cid=ecf05e4780pjr49nlnbyxwkdm2q6s3r3l10mpti65k3ukaht&rid=200w.webp&ct=s">
-  </div>
- 
-  <h1>
-  hey there 👋👋👋
-  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-</h1>
-</div>
+<h1 align="center">Hi 👋, I'm Ezira Tigb</h1>
+<p align="center">
+  <em>A Full Stack Software Developer with strong experience building scalable, modern web applications using React, Redux, Django, and Node.js.</em>
+</p>
+
+<p align="center">
+  <a href="mailto:ezratgab@gmail.com"><img src="https://img.shields.io/badge/Gmail-ezratgab@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://eziras.vercel.app"><img src="https://img.shields.io/badge/Portfolio-eziras.vercel.app-blueviolet?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://github.com/eziraa"><img src="https://img.shields.io/github/followers/eziraa?label=Follow&style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
-### :man_technologist: About Me :
+### 🚀 About Me
 
-- :telescope: I’m studying Software Engineering at Bahir Dar University.
+- 🎓 **BSc in Software Engineering** from Bahir Dar Institute of Technology 
+- 🧠 **ALX Africa Software Engineering Fellow** (Remote)
+- 💼 Seeking full-time opportunities as a **Front-End** or **Full Stack Developer**
+- 🌍 Based in Ethiopia 🇪🇹
 
-- :seedling: Exploring web development and moblie app development.
+---
 
-- :zap: In my free time, 🤔🤔🤔 i start to code my free time.
+### 🛠️ Tech Stack
 
+**Languages & Frameworks:**  
+`JavaScript` `TypeScript` `Python` `Java`  
+`React` `Next.js` `Redux Toolkit` `Redux Saga` `Tailwind CSS` `Shadcn UI` `Material UI`  
+`Node.js` `Express.js` `Django` `Django REST Framework`
 
+**Databases:**  
+`MySQL` `PostgreSQL` `MongoDB`
 
-# Main Skills #
+**Tools & Platforms:**  
+`Git` `GitHub` `Vercel` `Figma` `Postman`  
 
+---
 
-<a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
-<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
-<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
-<a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
-<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
+### 💼 Work Experience
 
+#### 🌐 Full Stack Developer Intern @ EthioDen ICT Solution *(May 2024 – July 2024)*  
+**Project: RollPay – Payroll Management System**  
+Tech Stack: React, Redux, Redux Saga, Django, DRF, MySQL  
+- Designed and implemented payroll UI with a focus on clean UX and accessibility  
+- Managed real-time payroll logic with Redux Saga  
+- Integrated secure backend APIs for employee and salary records  
 
-# 💻 My favorite tools and technologies
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
- </tr>
-</table>
+#### 🎓 Front-End Developer @ Nexus UI Solution *(Nov 2024 – Mar 2025)*  
+**Project: School Management System**  
+Tech Stack: React, Redux Toolkit, Tailwind CSS, Material UI  
+- Developed features for registration, payments, and batch-based course management  
+- Built responsive components and global state management  
+
+#### 🤖 Front-End Developer @ Sapians AI  
+**Project: AI Interview Prep Platform**  
+Live: [sapienstech.net](https://sapienstech.net)  
+Tech Stack: React, Tailwind, Redux Toolkit, Shadcn  
+- Led UI development for an AI-powered interview simulator  
+- Integrated real-time feedback with interactive layouts  
+- Enhanced user onboarding and mobile UX  
 
 
+### 📜 Education
+
+**Bachelor of Science in Software Engineering**  
+*Bahir Dar Institute of Technology*  
+🗓️ June 2021 – June 2025  
+
+**Software Engineering Program**  
+*ALX Africa (Remote)*  
+🗓️ June 2023 – Feb 2025  
+🎓 [ALX Certificate](https://intranet.alxswe.com/certificates/hBC2HEMJSF)
+
+---
+
+### 💡 Soft Skills
+
+`Teamwork` `Public Speaking` `Creative Thinking`  
+`Time Management` `Effective Communication` `Critical Thinking`
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [ezratgab@gmail.com](mailto:ezratgab@gmail.com)  
+- 🌐 Portfolio: [eziras.vercel.app](https://eziras.vercel.app)  
+- 🔗 GitHub: [@eziraa](https://github.com/eziraa)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eziraa&show_icons=true&theme=radical" alt="eziraa's GitHub stats" />
 </div>
 
-# 📊 GitHub Stats:
-
-<p align="center">
-
-<!--
-<a href="https://github.com/eziraa?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=eziraa&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
--->
-
-<a href="https://github.com/eziraa?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=eziraa&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/eziraa?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=eziraa&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
-
-</p>
-
-
-<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
-
-
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=eziraa&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-<!-- activity graph heroku-app end -->
-
-
-
-
-
-<br/>  
-
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eziraa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+---
 

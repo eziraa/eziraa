@@ -1,8 +1,10 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/200w.webp" width="300" />
 </div>
-<h1 align="center">Hi 👋, I'm Ezira Tigb</h1>
-<p align="center">
+
+<h2 align="center">Hi 👋, I'm Ezira Tigb</h2>
+
+<p align="center" style="font-size: 14px;">
   <em>A Full Stack Software Developer with strong experience building scalable, modern web applications using React, Redux, Django, and Node.js.</em>
 </p>
 
@@ -14,32 +16,24 @@
 
 ---
 
-### 🛠️ Tech Stack
+### <span style="font-size: 18px;">🛠️ Tech Stack</span>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,postgresql,tailwind,bootstrap,docker,figma,git,linux,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,redux,tailwind,nodejs,express,django,mongodb,postgresql,docker,git,linux,vscode&perline=8" />
 </div>
 
 ---
 
-### 📈 GitHub Stats
+### <span style="font-size: 18px;">📈 GitHub Stats</span>
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eziraa&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eziraa&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=eziraa.github.io" />
+  <img src="https://streak-stats.demolab.com?user=eziraa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eziraa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
-
-### 🧠 GitHub Insights
+### <span style="font-size: 18px;">🧠 GitHub Insights</span>
 
 <div align="center">
   <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eziraa&theme=tokyonight" />
@@ -49,7 +43,6 @@
 
 ---
 
-<!-- Contribution Graph -->
 <!--
 ### 📊 Contribution Graph
 <p align="center">
@@ -57,10 +50,6 @@
 </p>
 -->
 
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,100:14B8A6&height=100&section=footer"/>
 </p>
-
----
-

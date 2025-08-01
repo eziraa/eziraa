@@ -14,85 +14,53 @@
 
 ---
 
-### 🚀 About Me
-
-- 🎓 **BSc in Software Engineering** from Bahir Dar Institute of Technology 
-- 🧠 **ALX Africa Software Engineering Fellow** (Remote)
-- 💼 Seeking full-time opportunities as a **Front-End** or **Full Stack Developer**
-- 🌍 Based in Ethiopia 🇪🇹
-
----
-
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks:**  
-`JavaScript` `TypeScript` `Python` `Java`  
-`React` `Next.js` `Redux Toolkit` `Redux Saga` `Tailwind CSS` `Shadcn UI` `Material UI`  
-`Node.js` `Express.js` `Django` `Django REST Framework`
-
-**Databases:**  
-`MySQL` `PostgreSQL` `MongoDB`
-
-**Tools & Platforms:**  
-`Git` `GitHub` `Vercel` `Figma` `Postman`  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,postgresql,tailwind,bootstrap,docker,figma,git,linux,vscode&perline=8" />
+</div>
 
 ---
 
-### 💼 Work Experience
-
-#### 🌐 Full Stack Developer Intern @ EthioDen ICT Solution *(May 2024 – July 2024)*  
-**Project: RollPay – Payroll Management System**  
-Tech Stack: React, Redux, Redux Saga, Django, DRF, MySQL  
-- Designed and implemented payroll UI with a focus on clean UX and accessibility  
-- Managed real-time payroll logic with Redux Saga  
-- Integrated secure backend APIs for employee and salary records  
-
-#### 🎓 Front-End Developer @ Nexus UI Solution *(Nov 2024 – Mar 2025)*  
-**Project: School Management System**  
-Tech Stack: React, Redux Toolkit, Tailwind CSS, Material UI  
-- Developed features for registration, payments, and batch-based course management  
-- Built responsive components and global state management  
-
-#### 🤖 Front-End Developer @ Sapians AI  
-**Project: AI Interview Prep Platform**  
-Live: [sapienstech.net](https://sapienstech.net)  
-Tech Stack: React, Tailwind, Redux Toolkit, Shadcn  
-- Led UI development for an AI-powered interview simulator  
-- Integrated real-time feedback with interactive layouts  
-- Enhanced user onboarding and mobile UX  
-
-
-### 📜 Education
-
-**Bachelor of Science in Software Engineering**  
-*Bahir Dar Institute of Technology*  
-🗓️ June 2021 – June 2025  
-
-**Software Engineering Program**  
-*ALX Africa (Remote)*  
-🗓️ June 2023 – Feb 2025  
-🎓 [ALX Certificate](https://intranet.alxswe.com/certificates/hBC2HEMJSF)
-
----
-
-### 💡 Soft Skills
-
-`Teamwork` `Public Speaking` `Creative Thinking`  
-`Time Management` `Effective Communication` `Critical Thinking`
-
----
-
-### 📫 Contact Me
-
-- 📧 Email: [ezratgab@gmail.com](mailto:ezratgab@gmail.com)  
-- 🌐 Portfolio: [eziras.vercel.app](https://eziras.vercel.app)  
-- 🔗 GitHub: [@eziraa](https://github.com/eziraa)
-
----
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eziraa&show_icons=true&theme=radical" alt="eziraa's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eziraa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eziraa&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=eziraa.github.io" />
 </div>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eziraa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+### 🧠 GitHub Insights
+
+<div align="center">
+  <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eziraa&theme=tokyonight" />
+  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eziraa&theme=tokyonight" />
+<!--   <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eziraa&theme=tokyonight" /> -->
+</div>
+
+---
+
+<!-- Contribution Graph -->
+<!--
+### 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eziraa&theme=tokyo-night&hide_border=true" />
+</p>
+-->
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,100:14B8A6&height=100&section=footer"/>
+</p>
 
 ---
 
